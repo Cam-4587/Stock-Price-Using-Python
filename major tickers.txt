@@ -1,0 +1,51 @@
+
+# Technology Companies
+'AAPL': 'Apple Inc.',
+'MSFT': 'Microsoft Corporation',
+'GOOGL': 'Alphabet Inc. (Google)',
+'AMZN': 'Amazon.com Inc.',
+'NVDA': 'NVIDIA Corporation',
+'META': 'Meta Platforms Inc.',
+'TSLA': 'Tesla Inc.',
+
+# Financial Companies
+'JPM': 'JPMorgan Chase & Co.',
+'BAC': 'Bank of America Corporation',
+'WFC': 'Wells Fargo & Company',
+'V': 'Visa Inc.',
+'MA': 'Mastercard Incorporated',
+
+# Healthcare Companies
+'JNJ': 'Johnson & Johnson',
+'UNH': 'UnitedHealth Group Inc.',
+'PFE': 'Pfizer Inc.',
+'ABBV': 'AbbVie Inc.',
+
+# Consumer Companies
+'PG': 'Procter & Gamble Company',
+'KO': 'Coca-Cola Company',
+'PEP': 'PepsiCo Inc.',
+'WMT': 'Walmart Inc.',
+'DIS': 'The Walt Disney Company',
+
+# Industrial Companies
+'BA': 'Boeing Company',
+'CAT': 'Caterpillar Inc.',
+'GE': 'General Electric Company',
+
+# Energy Companies
+'XOM': 'Exxon Mobil Corporation',
+'CVX': 'Chevron Corporation',
+
+# Telecommunications
+'VZ': 'Verizon Communications Inc.',
+'T': 'AT&T Inc.',
+
+# Semiconductor Companies
+'INTC': 'Intel Corporation',
+'AMD': 'Advanced Micro Devices Inc.',
+'TSM': 'Taiwan Semiconductor Manufacturing',
+
+# Entertainment & Streaming
+'NFLX': 'Netflix Inc.',
+'SONY': 'Sony Group Corporation',
